@@ -79,17 +79,19 @@ You can also install them without cloning the repository:
 
 ## Preview
 
-![CROS UI preview](docs/cros-ui-preview.svg)
+These screenshots are from the working CROS interface.
 
-This is an illustrated preview of the CROS workspace. The project is designed around a single main CROS window with inline plugin panels and terminal access.
+### CROS Control Center
 
-## License
+![CROS Control Center](docs/screenshots/cros-home.webp)
 
-CROS Debian Assistant is released under the MIT License. See [LICENSE](LICENSE).
+### CNC / PCB Manufacturing
 
-## Contributing
+![CNC / PCB Manufacturing](docs/screenshots/cros-cnc.webp)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development and testing guidance.
+### Logic Analyzer + Board Datasheet
+
+![Logic Analyzer + Board Datasheet](docs/screenshots/cros-logic.webp)
 
 ## Official plugins
 
