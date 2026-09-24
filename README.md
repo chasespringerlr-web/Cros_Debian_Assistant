@@ -77,6 +77,20 @@ You can also install them without cloning the repository:
     curl -fsSL https://raw.githubusercontent.com/chasespringerlr-web/Cros_Debian_Assistant/main/plugins/kicad/cros_plugin_kicad_assistant_v1.sh -o /tmp/cros_kicad.sh
     bash /tmp/cros_kicad.sh
 
+## Preview
+
+![CROS UI preview](docs/cros-ui-preview.svg)
+
+This is an illustrated preview of the CROS workspace. The project is designed around a single main CROS window with inline plugin panels and terminal access.
+
+## License
+
+CROS Debian Assistant is released under the MIT License. See [LICENSE](LICENSE).
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for development and testing guidance.
+
 ## Official plugins
 
 | Plugin | Version | Purpose |
